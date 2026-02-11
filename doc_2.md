@@ -1,4 +1,4 @@
-# Program 2: Infix to Postfix Conversion and Evaluation
+# Program 2
 
 ## Data Structures
 
