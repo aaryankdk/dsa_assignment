@@ -1,4 +1,4 @@
-# Balanced Parentheses Checker
+# Program 1
 
 ## Data Structures
 
